@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["Doing raccoon things.","Going thru your trash."];
+const statusMessages = ["meow","join our discord"];
 
 
 let currentIndex = 0;
@@ -116,4 +116,4 @@ GIT : https://github.com/RTX-GAMINGG/Bot-ghost-status-remover-by-RTX
  * **********************************************
  *   Code by RTX GAMING
  * **********************************************
- */
+ *
